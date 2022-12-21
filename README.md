@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+# Welcome to my Github!
+
+# I'm currently working on my [Ethereum Analytics Tool](https://github.com/Jacob-Clayton/Etherscan-API) to analyse ETH addresses.
+
 <!--
 **Jacob-Clayton/Jacob-Clayton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
