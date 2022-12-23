@@ -1,6 +1,6 @@
 ## Welcome to my Github! 👋
 
-- I'm currently working on my [Ethereum Analytics Tool](https://github.com/Jacob-Clayton/Etherscan-API), a back-end python script to analyse ETH addresses.
+- I'm currently working on my [Ethereum Analytics Tool](https://github.com/Jacob-Clayton/Etherscan-API), a python script to analyse ETH addresses.
 
 - And I'm always tinkering with the front-end animations and design of my [Portfolio](http://jacobclayton.dev).
 
