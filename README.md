@@ -31,9 +31,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
   
-  
-  #  
-  
 <!--
 **Jacob-Clayton/Jacob-Clayton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
