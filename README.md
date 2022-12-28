@@ -13,6 +13,7 @@
 - And I'm always tinkering with the front-end animations and design of my [Portfolio](http://jacobclayton.dev).
 
      [<img align="right" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacob-Clayton&theme=dark&layout=compact"/>](https://github.com/Jacob-Clayton/)
+     
 
 <h3>Tech Stack</h3>
 
@@ -39,7 +40,7 @@
   
  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jost&duration=4000&pause=1000&color=58A6FF&width=435&lines=Full-Stack+Developer+%26+Data+Analyst;Creative%2C+Passionate+and+Driven"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jost&duration=4000&pause=1000&color=58A6FF&width=310&lines=Full-Stack+Developer+%26+Data+Analyst;Creative%2C+Passionate+and+Driven)"> 
 </p>
   
 <!--
