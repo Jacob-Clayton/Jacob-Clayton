@@ -10,10 +10,7 @@
 
 - I'm currently working on my [Ethereum Analytics Tool](https://github.com/Jacob-Clayton/Etherscan-API), a python script to analyse ETH addresses.
 
-- And I'm always tinkering with the front-end animations and design of my [Portfolio](http://jacobclayton.dev).
-
-     [<img align="right" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacob-Clayton&theme=dark&layout=compact"/>](https://github.com/Jacob-Clayton/)
-     
+- And I'm always tinkering with the front-end animations and design of my [Portfolio](http://jacobclayton.dev).     
 
 <h3>Tech Stack</h3>
 
