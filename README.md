@@ -20,13 +20,14 @@
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![React](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=react)
   ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-333333?style=flat&logo=tailwind-css)
+  ![Node.js](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=node.js)
+  
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![SQLite](https://img.shields.io/badge/SQLite-333333?style=flat&logo=sqlite)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=Postgresql)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -37,7 +38,7 @@
   
  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jost&duration=4000&pause=1000&color=58A6FF&width=310&lines=Full-Stack+Developer+%26+Data+Analyst;Creative%2C+Passionate+and+Driven"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jost&duration=4000&pause=1000&color=58A6FF&width=310&lines=Full+Stack+Developer+%26+Data+Analyst"> 
 </p>
   
 <!--
