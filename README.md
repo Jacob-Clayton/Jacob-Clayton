@@ -1,10 +1,4 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Welcome to my Github
-  &nbsp;&nbsp;
-  <a href="mailto:me@jacobclayton.dev">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="GMail" height="30" width="30">
-  </a>
- </h1>
+<h1 align="center">Welcome to my Github</h1>
 
 <h3>Tech Stack</h3>
 
