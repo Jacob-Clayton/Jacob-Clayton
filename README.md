@@ -14,7 +14,7 @@
   ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-333333?style=flat&logo=tailwind-css)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Figma](https://img.shields.io/badge/figma-333333?style=flat&logo=figma)
+  ![Figma](https://img.shields.io/badge/Figma-333333?style=flat&logo=figma)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![SQLite](https://img.shields.io/badge/SQLite-333333?style=flat&logo=sqlite)
