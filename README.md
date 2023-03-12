@@ -4,6 +4,7 @@
 
 - 💻 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript&logoColor=%23F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
   ![JSON](https://img.shields.io/badge/-JSON-333333?style=flat&logo=Json)
