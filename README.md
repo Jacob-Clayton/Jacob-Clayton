@@ -34,7 +34,7 @@
   
  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jost&duration=4000&pause=1000&color=58A6FF&width=310&lines=Full+Stack+Developer+%26+Data+Analyst"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jost&duration=4000&pause=1000&color=58A6FF&width=310&lines=Full+Stack+Developer"> 
 </p>
   
 <!--
