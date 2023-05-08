@@ -24,6 +24,7 @@
   ![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat&logo=mongodb)
 - ☁ &nbsp;
   ![Google Cloud](https://img.shields.io/badge/-GoogleCloud-333333?style=flat&logo=google-cloud)
+  ![AWS](https://img.shields.io/badge/AWS-333333?style=flat&logo=amazon-aws&logoColor=white)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
